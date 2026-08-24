@@ -1,0 +1,15 @@
+{
+  "name": "technocore-node-helper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Zero-dependency Node.js helper for encrypted Technocore did:key identities and signed messages",
+  "type": "module",
+  "scripts": {
+    "check": "node --check technocore-did-helper.mjs && node --check test.mjs",
+    "test": "node test.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
