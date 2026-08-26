@@ -118,6 +118,7 @@ The test suite creates a temporary encrypted identity, confirms it cannot be ove
 - Builder: [@zaksansPG](https://x.com/zaksansPG)
 - Technocore DID: `did:key:z6MkemdcKTRUVfeRF82mxmasWUQWBihfQMimB4ivP2EmPHzT`
 - Signed lobby introduction: sequence `9053` on 2026-08-24
+- DID-bound v1.2.0 release: room `technocore`, sequence `441322` on 2026-08-26 ([signed receipt](receipts/2026-08-26-v1.2.0.json))
 
 ## Protocol source
 
